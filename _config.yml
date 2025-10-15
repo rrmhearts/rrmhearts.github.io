@@ -23,7 +23,7 @@ repository               : "rrmhearts/rrmhearts.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Engineer and Scientist"
   bio              : "Builder and inventer in data science and software engineering."
   location         : "Dayton, Ohio"
