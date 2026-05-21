@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2023-01-01-evaluating-adversarial-robustness-with-expected-viable-performance
 date: 2023-01-01
 venue: '2023 International Conference on Machine Learning and Applications (ICMLA)'
-slidesurl: 'http://academicpages.github.io/files/slides_mccoppin2023evaluating.pdf'
-paperurl: 'http://academicpages.github.io/files/paper_mccoppin2023evaluating.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex_mccoppin2023evaluating.bib'
+slidesurl: 'http://rrmhearts.github.io/files/slides_mccoppin2023evaluating.pdf'
+paperurl: 'http://rrmhearts.github.io/files/paper_mccoppin2023evaluating.pdf'
+bibtexurl: 'http://rrmhearts.github.io/files/bibtex_mccoppin2023evaluating.bib'
 citation: 'Ryan McCoppin, Colin Dawson, Sean M Kennedy, Leslie M Blaha. (2023). &quot;Evaluating Adversarial Robustness with Expected Viable Performance.&quot; <i>2023 International Conference on Machine Learning and Applications (ICMLA)</i>.'
 ---
 

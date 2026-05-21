@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2014-01-01-an-evolutionary-approximation-to-contrastive-divergence-in-convolutional-restricted-boltzmann-machines
 date: 2014-01-01
 venue: 'Unknown Venue'
-slidesurl: 'http://academicpages.github.io/files/slides_mccoppin2014evolutionary.pdf'
-paperurl: 'http://academicpages.github.io/files/paper_mccoppin2014evolutionary.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex_mccoppin2014evolutionary.bib'
+slidesurl: 'http://rrmhearts.github.io/files/slides_mccoppin2014evolutionary.pdf'
+paperurl: 'http://rrmhearts.github.io/files/paper_mccoppin2014evolutionary.pdf'
+bibtexurl: 'http://rrmhearts.github.io/files/bibtex_mccoppin2014evolutionary.bib'
 citation: 'Ryan R McCoppin. (2014). &quot;An Evolutionary Approximation to Contrastive Divergence in Convolutional Restricted Boltzmann Machines.&quot; <i>Unknown Venue</i>.'
 ---
 

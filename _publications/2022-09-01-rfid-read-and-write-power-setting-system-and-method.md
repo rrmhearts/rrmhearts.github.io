@@ -6,9 +6,9 @@ permalink: /publication/2022-09-01-rfid-read-and-write-power-setting-system-and-
 excerpt: 'US Patent US 2022/0300722 A1'
 date: 2022-09-01
 venue: 'Unknown Venue'
-slidesurl: 'http://academicpages.github.io/files/slides_david2022rfid.pdf'
-paperurl: 'http://academicpages.github.io/files/paper_david2022rfid.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex_david2022rfid.bib'
+slidesurl: 'http://rrmhearts.github.io/files/slides_david2022rfid.pdf'
+paperurl: 'http://rrmhearts.github.io/files/paper_david2022rfid.pdf'
+bibtexurl: 'http://rrmhearts.github.io/files/bibtex_david2022rfid.bib'
 citation: 'David J. Wimmers, John D. Mistyurik, Scott P. FOWLER, Ryan MCCOPPIN. (2022). &quot;RFID Read AND Write Power Setting System and Method.&quot; <i>Unknown Venue</i>.'
 ---
 

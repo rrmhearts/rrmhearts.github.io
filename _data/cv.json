@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Ryan McCoppin",
-    "email": "ryan.mccoppin@gmail.com",
+    "name": "Engineer and Scientist",
+    "email": "ryan[dot]mccoppin[at]{google_email}[dot]com",
     "phone": "",
     "website": "https://rrmhearts.github.io",
-    "summary": "Currently employed at CAE USA. I am an experienced data scientist and engineer focusing on research and development in Python/C/C++/Rust.",
+    "summary": "Currently employed at CAE USA. Builder and inventer in data science and software engineering.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Dayton",
+      "city": "Dayton, Ohio",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=iQY5RvwAAAAJ&hl=en"
+        "url": "https://scholar.google.com/citations?user=WbSU8bAAAAAJ&hl=en&oi=ao"
       },
       {
         "network": "ORCID",
@@ -27,6 +27,11 @@
         "network": "GitHub",
         "username": "rrmhearts",
         "url": "https://github.com/rrmhearts"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ryan-mccoppin-4611a223",
+        "url": "https://www.linkedin.com/in/ryan-mccoppin-4611a223"
       }
     ]
   },
@@ -60,63 +65,63 @@
       "name": "Exploring point-cloud features from partial body views for gender classification",
       "publisher": "Evolutionary and Bio-Inspired Computation: Theory and Applications VI",
       "releaseDate": "2012-01-01",
-      "website": "http://academicpages.github.io/files/paper_fouts2012exploring.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_fouts2012exploring.pdf",
       "summary": ""
     },
     {
       "name": "Electro-optical seasonal weather and gender data collection",
       "publisher": "Machine Intelligence and Bio-inspired Computation: Theory and Applications VII",
       "releaseDate": "2013-01-01",
-      "website": "http://academicpages.github.io/files/paper_mccoppin2013electro.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_mccoppin2013electro.pdf",
       "summary": ""
     },
     {
       "name": "The effects of clothing on gender classification using LIDAR data",
       "publisher": "2012 IEEE National Aerospace and Electronics Conference (NAECON)",
       "releaseDate": "2012-01-01",
-      "website": "http://academicpages.github.io/files/paper_mccoppin2012effects.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_mccoppin2012effects.pdf",
       "summary": ""
     },
     {
       "name": "Deep learning for image classification",
       "publisher": "Ground/Air Multisensor Interoperability, Integration, and Networking for Persistent ISR V",
       "releaseDate": "2014-01-01",
-      "website": "http://academicpages.github.io/files/paper_mccoppin2014deep.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_mccoppin2014deep.pdf",
       "summary": ""
     },
     {
       "name": "An Evolutionary Approximation to Contrastive Divergence in Convolutional Restricted Boltzmann Machines",
       "publisher": "Unknown Venue",
       "releaseDate": "2014-01-01",
-      "website": "http://academicpages.github.io/files/paper_mccoppin2014evolutionary.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_mccoppin2014evolutionary.pdf",
       "summary": ""
     },
     {
       "name": "Overcoming adversarial attacks for human-in-the-loop applications",
       "publisher": "arXiv preprint arXiv:2306.05952",
       "releaseDate": "2023-01-01",
-      "website": "http://academicpages.github.io/files/paper_mccoppin2023overcoming.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_mccoppin2023overcoming.pdf",
       "summary": ""
     },
     {
       "name": "RFID Read AND Write Power Setting System and Method",
       "publisher": "Unknown Venue",
       "releaseDate": "2022-09-01",
-      "website": "http://academicpages.github.io/files/paper_david2022rfid.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_david2022rfid.pdf",
       "summary": "US Patent US 2022/0300722 A1"
     },
     {
       "name": "Evaluating Adversarial Robustness with Expected Viable Performance",
       "publisher": "2023 International Conference on Machine Learning and Applications (ICMLA)",
       "releaseDate": "2023-01-01",
-      "website": "http://academicpages.github.io/files/paper_mccoppin2023evaluating.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_mccoppin2023evaluating.pdf",
       "summary": ""
     },
     {
       "name": "Robust and Secure Machine Learning",
       "publisher": "AFRL Fight's On",
       "releaseDate": "2021-01-01",
-      "website": "http://academicpages.github.io/files/paper_blaha2021robust.pdf",
+      "website": "http://rrmhearts.github.io/files/paper_blaha2021robust.pdf",
       "summary": ""
     }
   ],
