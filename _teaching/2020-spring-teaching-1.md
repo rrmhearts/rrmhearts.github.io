@@ -13,6 +13,8 @@ Teaching math and geography for the past 6+ years to several of my children. It'
 Heading 1
 ======
 
+If you click the link you end up here
+
 Heading 2
 ======
 

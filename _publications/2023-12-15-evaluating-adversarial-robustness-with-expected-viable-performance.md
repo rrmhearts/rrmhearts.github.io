@@ -2,8 +2,8 @@
 title: "Evaluating Adversarial Robustness with Expected Viable Performance"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-evaluating-adversarial-robustness-with-expected-viable-performance
-date: 2023-01-01
+permalink: /publication/2023-12-15-evaluating-adversarial-robustness-with-expected-viable-performance
+date: 2023-12-15
 venue: '2023 International Conference on Machine Learning and Applications (ICMLA)'
 slidesurl: 'http://rrmhearts.github.io/files/slides_mccoppin2023evaluating.pdf'
 paperurl: 'http://rrmhearts.github.io/files/paper_mccoppin2023evaluating.pdf'

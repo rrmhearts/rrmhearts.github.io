@@ -2,8 +2,8 @@
 title: "Overcoming adversarial attacks for human-in-the-loop applications"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-01-overcoming-adversarial-attacks-for-human-in-the-loop-applications
-date: 2023-01-01
+permalink: /publication/2022-07-01-overcoming-adversarial-attacks-for-human-in-the-loop-applications
+date: 2023-07-01
 venue: 'arXiv preprint arXiv:2306.05952'
 slidesurl: 'http://rrmhearts.github.io/files/slides_mccoppin2023overcoming.pdf'
 paperurl: 'http://rrmhearts.github.io/files/paper_mccoppin2023overcoming.pdf'
