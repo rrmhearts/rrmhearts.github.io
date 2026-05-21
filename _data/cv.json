@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ryan McCoppin",
+    "email": "ryan.mccoppin@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://rrmhearts.github.io",
+    "summary": "Currently employed at CAE USA. I am an experienced data scientist and engineer focusing on research and development in Python/C/C++/Rust.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Dayton",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,37 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=iQY5RvwAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-2020-0758"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "rrmhearts",
+        "url": "https://github.com/rrmhearts"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "CAE USA",
+      "area": "Data Scientist / Software Engineer",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2020",
+      "endDate": "present",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Wright State University",
+      "area": "M.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2012",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +57,94 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Exploring point-cloud features from partial body views for gender classification",
+      "publisher": "Evolutionary and Bio-Inspired Computation: Theory and Applications VI",
+      "releaseDate": "2012-01-01",
+      "website": "http://academicpages.github.io/files/paper_fouts2012exploring.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Electro-optical seasonal weather and gender data collection",
+      "publisher": "Machine Intelligence and Bio-inspired Computation: Theory and Applications VII",
+      "releaseDate": "2013-01-01",
+      "website": "http://academicpages.github.io/files/paper_mccoppin2013electro.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "The effects of clothing on gender classification using LIDAR data",
+      "publisher": "2012 IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2012-01-01",
+      "website": "http://academicpages.github.io/files/paper_mccoppin2012effects.pdf",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Deep learning for image classification",
+      "publisher": "Ground/Air Multisensor Interoperability, Integration, and Networking for Persistent ISR V",
+      "releaseDate": "2014-01-01",
+      "website": "http://academicpages.github.io/files/paper_mccoppin2014deep.pdf",
+      "summary": ""
+    },
+    {
+      "name": "An Evolutionary Approximation to Contrastive Divergence in Convolutional Restricted Boltzmann Machines",
+      "publisher": "Unknown Venue",
+      "releaseDate": "2014-01-01",
+      "website": "http://academicpages.github.io/files/paper_mccoppin2014evolutionary.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Overcoming adversarial attacks for human-in-the-loop applications",
+      "publisher": "arXiv preprint arXiv:2306.05952",
+      "releaseDate": "2023-01-01",
+      "website": "http://academicpages.github.io/files/paper_mccoppin2023overcoming.pdf",
+      "summary": ""
+    },
+    {
+      "name": "RFID Read AND Write Power Setting System and Method",
+      "publisher": "Unknown Venue",
+      "releaseDate": "2022-09-01",
+      "website": "http://academicpages.github.io/files/paper_david2022rfid.pdf",
+      "summary": "US Patent US 2022/0300722 A1"
+    },
+    {
+      "name": "Evaluating Adversarial Robustness with Expected Viable Performance",
+      "publisher": "2023 International Conference on Machine Learning and Applications (ICMLA)",
+      "releaseDate": "2023-01-01",
+      "website": "http://academicpages.github.io/files/paper_mccoppin2023evaluating.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Robust and Secure Machine Learning",
+      "publisher": "AFRL Fight's On",
+      "releaseDate": "2021-01-01",
+      "website": "http://academicpages.github.io/files/paper_blaha2021robust.pdf",
+      "summary": ""
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Expected Viable Performance",
+      "event": "ICMLA 2023",
+      "date": "2023-12-15",
+      "location": "Orlando, FL, USA",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Math and Geography",
+      "institution": "McCoppin Home School",
+      "date": "2020-01-01",
+      "role": "1-6 grade course",
+      "description": "Teaching my kids about math and geography."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "--",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Description <br/><img src='/images/500x300.png'>"
     }
   ]
 }
