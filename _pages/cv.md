@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Wright State University, 2014
+* B.S. in Mathematics, Wright State University, 2012
+* B.S. in Computer Science, Wright State University, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2020-present: Data Scientist and Software Engineer
+  * CAE USA
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2015-August 2020: Embedded Systems Engineer
+  * Avery Dennison
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Software Engineer
+  * Wycliffe Bible Translators
+  * Volunteer wrote test software for FLEX
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Data science packages including Pytorch, Tensorflow, keras, pandas
+* C/C++
+  * 5 years experience as an embedded systems engineer
+  * Recent experience in simulation and modeling
+* Linux expert
+* Rust advocate
+* JavaScript/Typescript
+  * 3 years of React frontend / NodeJS backend development
+  * Wouldn't recommend JavaScript unless you need it.
 
 Publications
 ======
@@ -61,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Led several Bible studies and research teams
+* Site Q with F3 Dayton
