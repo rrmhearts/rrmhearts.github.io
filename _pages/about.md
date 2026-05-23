@@ -24,7 +24,7 @@ Professional Life
 ==============
 I am a Senior Data Scientist and Software Engineer with more than 15 years of professional experience. My career expands data science, web development, embedded systems and general software engineering. 
 - Data science using PyTorch / Tensorflow / Numpy / Pandas (**10+ years**)
-- Web development with React / Anuglar / NodeJS / Flask (**5+ years**)
+- Web development with React / Angular / NodeJS / Flask (**5+ years**)
 - Embedded systems including Android / Integrity / Linux (**4+ years**)
 - Simulation and Modeling in C++ and Rust with a lot of Bash Scripting (**2+ years**)
 
